@@ -4,4 +4,4 @@
 
 # Attention Map
 
-![alt tag](https://github.com/twtygqyy/caffe-misc/attention.jpg)
+![alt tag](https://github.com/twtygqyy/caffe-misc/blob/master/classification_attention/attention.jpg)
